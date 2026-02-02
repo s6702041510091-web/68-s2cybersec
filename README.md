@@ -1,5 +1,6 @@
 # Cyber Security
 
-## 6702041510091
+## Information
 * ###### Siriwan Srihirun
-* s6702041510091@email.kmutnb.ac.th
+* 6702041510091
+* * s6702041510091@email.kmutnb.ac.th
